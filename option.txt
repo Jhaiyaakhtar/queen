@@ -1,0 +1,9 @@
+  
+                1: date time check.      |   2: password cracker   
+                3: game of adventure     |   4: game of first input
+                5: guess number of random|   6: contact book
+                7: car driving.          |   8: ip tracker
+                9: auto text unlimited   |  10: about my code
+               11: open my code          |  12: Exit 
+              
+    
